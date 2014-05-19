@@ -1,1 +1,2 @@
-https://github.com/reppz/patches/raw/master/patch-P.MPQ patch-P.MPQ 4D709477EB1A43A08D087C62D59D9BAB
+https://github.com/reppz/patches/raw/master/patch-k.MPQ patch-k.MPQ E48852A9612C66004BDC47F3EE2FDD36
+https://github.com/reppz/patches/raw/master/locale-enUS.MPQ locale-enUS.MPQ ACFF25F06066E073805174BCE71A4BA2
